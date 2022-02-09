@@ -1,4 +1,4 @@
-# Automation_Code_Challenge
+# Test_Automation_Project
 
 This project automates the website -  http://automationpractice.com for the below scenarios,
 
